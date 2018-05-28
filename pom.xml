@@ -6,6 +6,8 @@
   <packaging>war</packaging>
   <name>TestMaven</name>
   <build>
+  	<finalName>TestMaven</finalName>
+  
     <sourceDirectory>src</sourceDirectory>
     <plugins>
       <plugin>
